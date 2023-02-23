@@ -2,9 +2,7 @@
 
 R in Pharma 2022 CI/CD workshop repository.
 
-Full workshop video available here: https://www.youtube.com/watch?v=OcNzurpCCpY
-
-Presentation video available here: https://www.youtube.com/watch?v=8HPpdv8crHo
+Date: November 4, 2022
 
 ## Exercises
 
